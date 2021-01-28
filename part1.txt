@@ -1,0 +1,26 @@
+Script started on Thu 14 Jan 2021 04:06:46 PM PST
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[?1034h[ichang@linux10616 lab1exer1]$ touch [K[K[K[K[K[Kls
+part1
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch one.c
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch One[K[K[K[K one.C
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch two.py
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch tr[Khree.py
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch demo1.txt
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ tocu[K[Kuch demo2.txt
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch demo1.cpp
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch prog1.sh
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ touch ex.p
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ ls *.??
+prog1.sh  three.py  two.py
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ ls *.[cC]
+one.c  one.C
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ mv demo1.txt demo1.doc
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ ls
+demo1.cpp  demo1.doc  demo2.txt  ex.p  one.c  one.C  part1  prog1.sh  three.py  two.py
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ rename txt doc *.txt
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ ls
+demo1.cpp  demo1.doc  demo2.doc  ex.p  one.c  one.C  part1  prog1.sh  three.py  two.py
+]0;ichang@linux10616:~/Desktop/COEN174/lab1exer1[ichang@linux10616 lab1exer1]$ eex[K[Kxit
+exit
+
+Script done on Thu 14 Jan 2021 04:08:32 PM PST
